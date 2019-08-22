@@ -26,7 +26,7 @@ First, create aspect and asset in the MindSphere. The name of the aspect and ID 
 
 Next, make following changes to the code:
 * In Python file **application**, replace the values of the **ASSET_ID** and **ASPECT** variables
-* In manifest file, replace the **name** with the name of your app, and the **tenant** with the name of your tenant
+* In manifest file, replace the **appName** with the name of your app, and the **tenant** with the name of your tenant
 
 After these changes, the source code is ready to be deployed into Cloud Foundry.
 
