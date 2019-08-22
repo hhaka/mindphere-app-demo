@@ -1,4 +1,4 @@
-# Mindphere App Demo
+# MindSphere App Demo
 
 ## Description
 
