@@ -30,7 +30,11 @@ Next, make following changes to the code:
 
 After these changes, the source code is ready to be deployed into Cloud Foundry.
 
-Please see the MindSphere online [documentation](https://developer.mindsphere.io/howto/howto-cf-running-app.html) how to deploy a Cloud Foundry-hosted application. 
+Please see the MindSphere online [documentation](https://developer.mindsphere.io/howto/howto-cf-running-app.html) how to deploy a Cloud Foundry-hosted application.
+
+## Docs
+
+**Docs** folder contains basic instructions (in Finnish) how to use Siemens MindSphere. There are also two sample applications in the folder.
 
 ## Additional Information.
 
